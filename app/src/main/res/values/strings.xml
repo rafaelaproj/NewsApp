@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="search_news">Search News</string>
+    <string name="saved_news">Saved News</string>
+    <string name="breaking_news">Breaking News</string>
+    <string name="news_api_key">NEWS API KEY HERE</string>
+    <string name="fab_name">Floating Action Button</string>
+    <string name="article_image">Article Image</string>
+    <string name="source">SOURCE</string>
+    <string name="title">TITLE</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="published_at">PUBLISHED AT</string>
+    <string name="search">Search…</string>
+</resources>
